@@ -109,7 +109,7 @@ class App extends React.Component {
             id="python-output"
             readOnly
             value={output(outputArr)}
-            placeholder="> Code output displays here..."
+            placeholder="$ Code output displays here..."
           />
         </div>
       </div>
